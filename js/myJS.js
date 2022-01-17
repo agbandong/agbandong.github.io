@@ -1,3 +1,3 @@
 function putOnSunglasses() {
-  document.getElementById('Me').src='smiling-face-with-sunglasses.png';
+  document.getElementById('Me').src='../img/smiling-face-with-sunglasses.png';
 }
